@@ -23,7 +23,7 @@ public class MyController {
 
    @RequestMapping("/test")
     public void test(){
-       System.out.println("test");
+       System.out.println("test11222333444");
     }
 
     @GetMapping("/test")

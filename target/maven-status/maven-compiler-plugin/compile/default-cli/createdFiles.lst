@@ -1,0 +1,5 @@
+com\bjsxt\controller\MyController.class
+com\bjsxt\config\SwaggerConfiguration.class
+com\bjsxt\anno\MyAnnotation4Swagger.class
+com\bjsxt\entity\MyEntity.class
+com\bjsxt\MyApp.class
